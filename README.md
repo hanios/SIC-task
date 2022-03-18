@@ -1,10 +1,10 @@
 # SIC-task
-signup, login, logout, API, PAginate
+signup, login, logout, API, Paginate.
 
 # run task folder
-npm install
-npm run serve
+npm install.
+npm run serve.
 
 # run DB
-open DB folder using command promp
-run json-server --watch db.json
+open DB folder using command promp'
+run json-server --watch db.json.
