@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "ali@gmail.com",
+      "name": "Ali",
+      "password": "pswd",
+      "id": 1
+    },
+    {
+      "name": "Abu",
+      "email": "abu@gmail.com",
+      "password": "pswd",
+      "id": 2
+    },
+    {
+      "name": "hanis",
+      "email": "hanis@gmail.com",
+      "password": "pswd",
+      "id": 3
+    },
+    {
+      "name": "Abon",
+      "email": "abon@gmail.com",
+      "password": "pswd",
+      "id": 4
+    }
+  ]
+}
